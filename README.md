@@ -1,2 +1,2 @@
 # try
-fist learn
+fist learn then use
